@@ -42,9 +42,9 @@ In this notebook, the data of a programming language is training set, and anothe
 
 The original dataset we used. It contains Java, Python, Go, C++ and JS code snippets. Each sample contains "Language", "Project name", "test case name", "label" and "test case content". We label the data to be "Flaky" and "NoFlaky".</br>
 
-### <li>results_cv.xlsx</li>
+### <li>results.xlsx</li>
 
-We collated the results for analysis.</br>
+We collated the results for analysis. It contains results of train-test split 70-30, 80-20, and cross-projects, statistics and cross-validation.</br>
 
 
 
