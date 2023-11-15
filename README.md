@@ -8,7 +8,7 @@
    Our data comes from github and Flaky dataset, (see this Link <https://zenodo.org/record/6994692>). The projects are of 5 different programming languages: Java, Python, C++, Go and JavaScipt. We label them to be "Flaky" and "NonFlaky" in our dataset.<br>
    <li>Preprocessing</li>
    Here is the workflow of our methods.
-   <img src='./digram/digram.png'> <br>
+   <img src='./digram/diagram.png'> <br>
    <li>Classifiers</li>
    See the figure above. <br>
    </ol>
